@@ -6,7 +6,7 @@ function Hero() {
     <div className="h-[75vh] flex flex-col md:flex-row items-center justify-center bg-green-900 text-white">
       <div className="w-full mb-12 md:mb-0 lg:w-3/6 flex flex-col items-center lg:items-start justify-center">
         <h1 className="text-4xl lg:text-6xl font-semibold text-green-50 text-center lg:text-left">
-        Dive into a 3D herbal garden
+        Dive into a 3D 
         </h1>
         <p className="mt-4 md:mb-0 lg:text-xl text-green-200 font-thin text-center lg:text-left typing-effect">
         Explore ancient remedies, mystical herbs, and the secrets of nature in our verdant collection of medicinal volumes

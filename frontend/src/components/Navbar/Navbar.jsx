@@ -55,7 +55,7 @@ function Navbar() {
               to="/SignUp"
               className="px-4 py-1 font-thin bg-green-600 rounded hover:bg-white hover:text-green-900 transition-all duration-300"
             >
-              SignUp
+              Sign
             </Link>
           </div>
           <button
@@ -99,7 +99,7 @@ function Navbar() {
           to="/SignUp"
           className={`${MobileNav} px-8 py-2 mb-8 pl-3 pr-3 text-4xl text-white font-thin bg-green-600 rounded hover:bg-white hover:text-green-900 transition-all duration-300`}
         >
-          SignUp
+          Signup
         </Link>
       </div>
     </>
